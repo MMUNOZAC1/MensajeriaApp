@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color purple_700
+color teal_200
+color white
+id btnAdd
+id btnContacts
+id btnDelete
+id btnEdit
+id btnLogin
+id btnLogout
+id btnOpenChat
+id btnRegister
+id btnSend
+id etDisplay
+id etMessage
+id etPass
+id etUser
+id lvMessages
+id lvUsers
+id tvMsgIn
+id tvMsgOut
+id tvUserName
+id tvWelcome
+layout activity_chat
+layout activity_login
+layout activity_menu
+layout activity_splash
+layout activity_user_management
+layout row_message_in
+layout row_message_out
+layout row_user
+string app_name
+style Theme.MensajeriaApp

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_row_message_out.xml.flat",
+        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\row_message_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "com.tuapp.mensajeria.app-debug-31:/layout_activity_splash.xml.flat",
+        "source": "com.tuapp.mensajeria.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_user_management.xml.flat",
+        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_user_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_row_message_in.xml.flat",
+        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\row_message_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_row_user.xml.flat",
+        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\row_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_menu.xml"
+    }
+]
