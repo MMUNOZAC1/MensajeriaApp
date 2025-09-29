@@ -4,6 +4,8 @@ color purple_500
 color purple_700
 color teal_200
 color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
 id btnAdd
 id btnContacts
 id btnDelete
@@ -31,5 +33,7 @@ layout activity_user_management
 layout row_message_in
 layout row_message_out
 layout row_user
+mipmap ic_launcher
+mipmap ic_launcher_round
 string app_name
 style Theme.MensajeriaApp

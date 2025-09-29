@@ -1,38 +1,90 @@
 [
     {
-        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_row_message_out.xml.flat",
-        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\row_message_out.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_chat.xml.flat",
-        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_chat.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/layout_row_message_out.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/layout/row_message_out.xml"
     },
     {
-        "merged": "com.tuapp.mensajeria.app-debug-31:/layout_activity_splash.xml.flat",
-        "source": "com.tuapp.mensajeria.app-main-33:/layout/activity_splash.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_splash.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_user_management.xml.flat",
-        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_user_management.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/layout_activity_menu.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/layout/activity_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_login.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_row_message_in.xml.flat",
-        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\row_message_in.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_row_user.xml.flat",
-        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\row_user.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-debug-31:\\layout_activity_menu.xml.flat",
-        "source": "C:\\Users\\Mariana\\Documents\\Aplicativo moviles\\MiAppMarianaMA\\daemon\\8.7\\com.tuapp.mensajeria.app-main-33:\\layout\\activity_menu.xml"
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/layout_row_user.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/layout/row_user.xml"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/layout_row_message_in.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/layout/row_message_in.xml"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/layout_activity_chat.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/layout_activity_user_management.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/layout/activity_user_management.xml"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuempresa.mensajeria.app-debug-31:/layout_activity_splash.xml.flat",
+        "source": "com.tuempresa.mensajeria.app-main-33:/layout/activity_splash.xml"
     }
 ]

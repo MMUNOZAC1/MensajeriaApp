@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.tuapp.mensajeria",
+  "applicationId": "com.tuempresa.mensajeria",
   "variantName": "debug",
   "elements": []
 }
